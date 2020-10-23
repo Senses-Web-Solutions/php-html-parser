@@ -1,7 +1,10 @@
 PHP Html Parser
 ==========================
 
-Version 3.1.0
+Version 3.1.1
+
+## This fork
+Fork is here to support an older version of Guzzle, allowing you to use this package with Laravel.
 
 [![Build Status](https://travis-ci.org/paquettg/php-html-parser.png)](https://travis-ci.org/paquettg/php-html-parser)
 [![Coverage Status](https://coveralls.io/repos/paquettg/php-html-parser/badge.png)](https://coveralls.io/r/paquettg/php-html-parser)
